@@ -283,43 +283,43 @@ item_Event.forEach(element=>{element.addEventListener('click',showelementclick)}
   let All_itmes
 const arry_of_All = [
   {
-    img: "./imgTe/imgTe1.jpg",
+    img: "./Portfolio2/imgTe/imgTe1.jpg",
     title: "Web Design",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe2.jpg",
+    img: "./Portfolio2/imgTe/imgTe2.jpg",
     title: "Web Design",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe3.jpg",
+    img: "./Portfolio2/imgTe/imgTe3.jpg",
     title: "Web Design",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe4.jpg",
+    img: "./Portfolio2/imgTe/imgTe4.jpg",
     title: "App mobil",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe5.jpg",
+    img: "./Portfolio2/imgTe/imgTe5.jpg",
     title: "App mobil",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe6.jpg",
+    img: "./Portfolio2/imgTe/imgTe6.jpg",
     title: "Brand Design",
     para: "View More"
 
   },
   {
-    img: "./imgTe/imgTe7.jpg",
+    img: "./Portfolio2/imgTe/imgTe7.jpg",
     title: "Brand Design",
     para: "View More"
 
