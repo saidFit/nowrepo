@@ -75,6 +75,9 @@ body.dark .container-of-item-hidden{
 body.dark .close{
     background:rgb(32 33 36);
 }
+body.dark .container-element-abs-featured{
+    background:rgb(32 33 36);
+}
 body.dark .child1-of-under-title button{
     background:rgb(32 33 36);
     color: #ffff;
@@ -109,7 +112,7 @@ body.dark .container-of-item-hidden,
     body.dark .container-of-itmes-portfolio,body.dark .show-Nav,
     body.dark .Accordion .Accordion-item,
     body.dark .icon-parametre,
-    body.dark .container-All-color{
+    body.dark .container-All-color,body.dark .container-element-abs-featured{
    border: 1px solid rgb(75, 75, 75) !important;
 }
 
